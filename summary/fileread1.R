@@ -38,3 +38,4 @@ str(student)
 head(student)
 summary(student)
 
+saveRDS(student, "student.rds")
